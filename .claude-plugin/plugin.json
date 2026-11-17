@@ -8,7 +8,11 @@
     "url": "https://delphi-mcp.com"
   },
   "homepage": "https://delphi-mcp.com/docs",
+  "repository": "https://github.com/delphi-mcp/delphi-plugin",
   "privacyPolicyUrl": "https://delphi-mcp.com/privacy",
+  "termsOfServiceUrl": "https://delphi-mcp.com/terms",
+  "supportUrl": "https://delphi-mcp.com/support",
+  "documentationUrl": "https://delphi-mcp.com/docs",
   "license": "Proprietary",
   "keywords": [
     "legal research",
