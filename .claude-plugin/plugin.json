@@ -1,0 +1,20 @@
+{
+  "name": "delphi",
+  "version": "1.0.0",
+  "description": "Research Canadian case law and legislation with Delphi: plain-language search, paragraph pinpoints, a citator, and citation checking for drafts.",
+  "author": {
+    "name": "Delphi MCP",
+    "email": "support@delphi-mcp.com",
+    "url": "https://delphi-mcp.com"
+  },
+  "homepage": "https://delphi-mcp.com/docs",
+  "license": "Proprietary",
+  "keywords": [
+    "legal research",
+    "Canadian law",
+    "case law",
+    "citator",
+    "legislation"
+  ],
+  "icon": "https://delphi-mcp.com/icon.png"
+}
